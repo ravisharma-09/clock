@@ -1,7 +1,7 @@
 # Clock and Stopwatch Project
 
 This is a small web project that shows a digital clock and a stopwatch. I made this to practice JavaScript basics and understand how time related functions work in real time.
-![Uploading Screenshot 2026-04-15 at 10.27.16 PM.jpg…]()
+
 
 ## Features
 
@@ -9,7 +9,7 @@ This is a small web project that shows a digital clock and a stopwatch. I made t
 - Stopwatch with start stop and reset
 - Simple and clean UI
 - Easy switch between clock and stopwatch
-![Uploading Screenshot 2026-04-15 at 10.27.36 PM.jpg…]()
+
 
 ## Tech Used
 
