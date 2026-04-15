@@ -5,6 +5,6 @@ setInterval(() => { const time = new Date().toLocaleTimeString('en-US', {
   hour12: true
 });
 
-console.log(time)
+
 const h1 = document.getElementById('time');
 h1.innerText = time;},1000);
